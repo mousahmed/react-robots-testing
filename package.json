@@ -1,8 +1,8 @@
 {
-  "name": "robofriends",
+  "name": "robofriends-testing",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mousahmed.github.io/react-robots-pwa",
+  "homepage": "https://mousahmed.github.io/react-robots-testing",
   "dependencies": {
     "gh-pages": "^4.0.0",
     "react": "^18.0.2",
